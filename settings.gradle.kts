@@ -23,3 +23,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "poc_ml_kit"
 include(":app")
+include(":opencv")

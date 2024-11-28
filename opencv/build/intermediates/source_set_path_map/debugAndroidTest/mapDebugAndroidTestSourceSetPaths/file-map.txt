@@ -1,0 +1,5 @@
+org.opencv.test.opencv-androidTest-0 C:\_workspace\_android\poc_ml_kit\opencv\build\generated\res\resValues\androidTest\debug
+org.opencv.test.opencv-mergeDebugAndroidTestResources-1 C:\_workspace\_android\poc_ml_kit\opencv\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.opencv.test.opencv-mergeDebugAndroidTestResources-2 C:\_workspace\_android\poc_ml_kit\opencv\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.opencv.test.opencv-debugAndroidTest-3 C:\_workspace\_android\poc_ml_kit\opencv\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+org.opencv.test.opencv-debug-4 C:\_workspace\_android\poc_ml_kit\opencv\build\intermediates\packaged_res\debug\packageDebugResources

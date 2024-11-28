@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\_workspace\_android\poc_ml_kit\opencv\.cxx\Debug\41kn1z11\arm64-v8a'
+ninja: no work to do.
