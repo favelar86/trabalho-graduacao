@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">poc_ml_kit</string>
+    <string name="imagem_pr_processada">Imagem pré-processada</string>
+    <string name="texto_reconhecido">Texto reconhecido:</string>
+    <string name="digite_o_texto_aqui">Digite o texto aqui</string>
+    <string name="tirar_foto">Tirar Foto</string>
+    <string name="bot_o_para_tirar_foto">Botão para tirar foto</string>
+    <string name="reconhecer_texto">Reconhecer Texto</string>
+    <string name="bot_o_para_reconhecer_texto">Botão para reconhecer texto</string>
 </resources>

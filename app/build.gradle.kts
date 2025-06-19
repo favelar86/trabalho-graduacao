@@ -74,4 +74,7 @@ dependencies {
     implementation(libs.android.image.cropper)
 
     implementation(project(":opencv"))
+
+    implementation(libs.tensorflow.lite)
+    implementation(libs.tensorflow.lite.support)
 }
